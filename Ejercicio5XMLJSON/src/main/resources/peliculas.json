@@ -1,0 +1,12 @@
+{
+    "MOV123": {
+        "id": "MOV123",
+        "titulo": "El señor de los anillos",
+        "votos": 150
+    },
+    "MOV456": {
+        "id": "MOV456",
+        "titulo": "Matrix",
+        "votos": 125
+    }
+}
